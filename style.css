@@ -37,14 +37,14 @@
   --light-2: #f5f5f5;
   --light-3: #fafafa;
   --white: #ffffff;
-  --gradient-1: linear-gradient(180deg, #155bd5 0%, #1c3ab6 100%);
-  --gradient-2: linear-gradient(180deg, #155bd5 13.02%, #00d4d7 85.42%);
-  --gradient-3: linear-gradient(180deg, #155bd5 0%, #8f15d5 100%);
-  --gradient-4: linear-gradient(180deg, #155bd5 0%, #13d527 100%);
-  --gradient-5: linear-gradient(180deg, #155bd5 0%, #15bbd5 100%);
-  --gradient-6: linear-gradient(180deg, #155bd5 0%, #dbbb25 100%);
-  --gradient-7: linear-gradient(180deg, #155bd5 0%, #e6185e 100%);
-  --gradient-8: linear-gradient(180deg, #1c3ab6 0%, #00bac1 100%);
+  --gradient-1: linear-gradient(180deg, #344055 0%, #262e3c 100%);
+  --gradient-2: linear-gradient(180deg, #344055 13.02%, #00d4d7 85.42%);
+  --gradient-3: linear-gradient(180deg, #344055 0%, #8f15d5 100%);
+  --gradient-4: linear-gradient(180deg, #344055 0%, #13d527 100%);
+  --gradient-5: linear-gradient(180deg, #344055 0%, #15bbd5 100%);
+  --gradient-6: linear-gradient(180deg, #344055 0%, #dbbb25 100%);
+  --gradient-7: linear-gradient(180deg, #344055 0%, #e6185e 100%);
+  --gradient-8: linear-gradient(180deg, #262e3c 0%, #00bac1 100%);
   --gradient-9: linear-gradient(180deg, #00d4d7 13.02%, #155bd5 85.42%);
   --shadow-1: 0px 0px 1px rgba(40, 41, 61, 0.08),
     0px 0.5px 2px rgba(96, 97, 112, 0.16);
